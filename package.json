@@ -1,0 +1,26 @@
+{
+  "name": "smart-locale-formatter",
+  "version": "1.0.0",
+  "description": "This package, smart-locale-formatter, provides an easy and dynamic way to format dates, numbers, currencies, and text in multiple locales without needing to remember the complexities of Intl. It also includes a feature to auto-detect the user's locale from their environment and fall back to a default locale when necessary.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "smart",
+    "locale",
+    "formatter",
+    "locales"
+  ],
+  "author": "Ashish Rathore",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.10.3",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  }
+}
