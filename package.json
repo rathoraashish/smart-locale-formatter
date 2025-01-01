@@ -1,6 +1,6 @@
 {
   "name": "smart-locale-formatter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package, smart-locale-formatter, provides an easy and dynamic way to format dates, numbers, currencies, and text in multiple locales without needing to remember the complexities of Intl. It also includes a feature to auto-detect the user's locale from their environment and fall back to a default locale when necessary.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
